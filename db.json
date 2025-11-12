@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Valeria",
+            "surname": "Parmenova",
+            "photo_url": "https://www.acmodasi.com.ua/rate/m/m/g/413158-1552811063-78698.m.jpg",
+            "balance": 999999
+        }
+    ]
+}
